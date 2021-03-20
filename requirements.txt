@@ -1,6 +1,6 @@
 Flask==1.1.2
 pygtrie==2.3.3
-Jinja2==2.11.2
+Jinja2==2.11.3
 itsdangerous==0.24
 Werkzeug==1.0.1
 click==5.1
